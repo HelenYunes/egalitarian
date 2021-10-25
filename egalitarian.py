@@ -30,7 +30,7 @@ def egalitarian_division(matrix: list):
 
 def main():
     mat = [[81, 19, 1],
-        [70, 1, 29],]
+        [70, 1, 29]]
 
     egalitarian_division(mat)
 
